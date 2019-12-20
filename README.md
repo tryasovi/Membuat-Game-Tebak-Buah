@@ -1,2 +1,2 @@
-# Membuat-Game-Tebak-Buah-Dicoding
-Belajar Membangun Game HTML5 : Tugas Akhir : Membuat Game Tebak Buah 
+# Membuat Game Tebak Buah
+Belajar Membangun Game HTML5: Membuat Game Tebak Buah 
